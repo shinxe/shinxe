@@ -1,6 +1,6 @@
 # ShinXe Xalyfi
 **Connect and Change**  
-Hey I am ShinXe    
+Hey I am ShinXe  
 I want to create things that someone need and never forget
 README.md
 
