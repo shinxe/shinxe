@@ -6,7 +6,7 @@ README.md
 
 
 
-# Website : https://shinxe.cf
+# Website : https://xalyfi.com
 <img src="https://shinxe.cf/image/dragon.png" width="400px"><img src="https://shinxe.cf/image/ShinXe.png" width="200px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=shinxe&show_icons=true&theme=nightowl&count_private=&title_color=00ffff&text_color=7fbfff)
